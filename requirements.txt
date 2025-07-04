@@ -1,0 +1,8 @@
+polyglot
+pycld2
+pyicu
+regex
+jieba
+unicodedata2
+janome
+pythainlp
