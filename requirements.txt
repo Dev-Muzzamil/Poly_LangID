@@ -6,3 +6,6 @@ jieba
 unicodedata2
 janome
 pythainlp
+fasttext
+scikit-learn
+tqdm
